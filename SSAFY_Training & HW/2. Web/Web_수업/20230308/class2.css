@@ -1,0 +1,49 @@
+.box{
+  background-color: aquamarine;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+
+  /* margin-top: 20px; */
+
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* margin-right: auto;
+  margin-left: auto; */
+  /* margin: 20px auto; */
+
+  /* 글씨를 가운데로 정렬 */
+  /* text-align: center; */
+
+  /* inline요소는 margin이 들어가지 않는다. */
+
+}
+
+.sticky{
+  position: sticky;
+  top: 20px;
+  left: 100px;
+  background-color: orange;
+}
+
+
+
+
+
+
+
+span{
+
+  /* span이 높이를 100을 가진 요소가 되었다. */
+  line-height: 100px;
+
+}
+
+.test{
+
+  /* display: none; */
+  /* 공간조차 없음 */
+
+  visibility: hidden;
+  /* 우리눈에 보이지는 않지만 공간은 차지함 */
+}

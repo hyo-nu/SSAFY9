@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>JS DOM</title>
+  </head>
+  <style>
+    .red {
+      color: red;
+    }
+
+    .big {
+      font-size: 32px;
+    }
+  </style>
+  <body>
+    <h1>selector test</h1>
+
+    <button id="event-button">커져라!</button>
+
+    <ul id="list">
+      <li class="red">apple</li>
+      <li>orange</li>
+      <li id="banana">banana</li>
+      <li>grape</li>
+      <li class="red">strawberry</li>
+    </ul>
+    <script>
+      // 01_problem : strawberry 아래에 새로운 과일 하나를 더 추가하시오.
+      const mango = document.createElement("li"); // 새로만든 태그에
+      mango.innerText = "망고"; // 망고 텍스트 넣어주기
+      const parent = document.querySelector("ul"); // ul태그 찾아오기
+      parent.appendChile(mango); // 부모를 찾아 추가하기
+
+      // 02_problem : 사과 위에 새로운 과일을 하나 더 추가하기
+      const pineapple = document.createElement("li");
+      pineapple.innerText = "파인애플";
+      parent.prepend(pineapple);
+
+      // 03_problem : orange 와 banana 사이에 과일 추가
+      const kiwi = document.createElement("li");
+      kiwi.innerText = "키위";
+      const banana = document.querySelector("#banana");
+      parent.insertBefore(kiwi, banana);
+
+      // 04_problem : 'red'인 노드 모두 삭제
+      const reds = querySelectorAll(".red");
+      reds.forEach((element) => {
+        element.remove();
+      });
+
+      // 05_problem : 모든 li 태그의 글자 크기 키우기
+      const liTages = document.querySelectorAll("li");
+      liTages.forEach((element) => {
+        element.classList.add("big");
+      });
+
+      // 다음주 수업 찍먹
+      // 버튼을 누르면 이벤트 실행하기
+      const button = document.querySelector("#event-button");
+      button.addEventListener("click", () => {
+        changeFont();
+      });
+
+      function changeFont() {
+        const LiTags = document.querySelectorAll("li");
+        LiTags.forEach((element) => {
+          element.classList.add("big");
+        });
+      }
+    </script>
+  </body>
+</html>

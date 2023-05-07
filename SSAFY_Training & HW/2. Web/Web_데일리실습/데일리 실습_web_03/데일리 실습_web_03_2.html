@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    body{
+      display : flex;
+      flex-direction: column;
+      width: 400px;
+    }
+    nav{
+      line-height: 50px;
+      border-radius: 5px;
+      padding-left: 15px;
+      color: white;
+      background-color: red;
+    }
+    form{
+      border: 1px solid grey;
+      border-radius: 5px;
+    }
+    .hr1{
+      border: 2px solid blue;
+    }
+    .box1{
+      line-height: 40px;
+      text-align: center;
+    }
+    .sign{
+      margin: 20px;
+    }
+    .box2{
+      display: flex;
+      margin: 16px;
+      justify-content: space-between;
+    }
+    .input_box{
+      margin-top:10px;
+      height:30px;
+      width: 350px;
+    }
+    .submit_box{
+      background-color: mediumseagreen;
+      color: white;
+      border: 1px solid white;
+      border-radius: 5px;
+      margin-top:10px;
+      height:30px;
+      width: 355px;
+    }
+
+
+  </style>
+</head>
+<body>
+  <div>  
+    <nav>Invalid Login or password</nav>
+    <header header><h1>SSAFY 전용 Gitlab 시스템</h1></header>
+    <hr style= 'margin-bottom:17px'>
+  </div>
+
+  <form action="">
+    <div class="box1"><b>Sign in</b></div>
+
+    <hr class="hr1">
+
+    <div class="sign">
+      <label for="user"><b>Username or Email</b></label><br>
+      <input type="text" name="user" id="user" class="input_box">
+    </div>
+    
+    <div class="sign">
+      <label for="pwd"><b>Password</b></label><br>
+      <input type="text" name="pwd" id="pwd" class="input_box">
+    </div>
+
+    <div class="box2">
+      <div>
+      <input type="checkbox" name="check" id="check">
+      <label for="check">Remember me</label>
+      </div>
+      <a href="">Forgot your password?</a>
+    </div>
+    
+    <div class="sign">
+      <input type="submit" value="Sign in" class="submit_box">
+    </div>
+  </form>
+</body>
+</html>

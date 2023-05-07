@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    body{
+      border: 1px solid black;
+    }
+    .box1{
+      border: 2px solid red;
+      width: 100px;
+      height: 100px;
+      /* margin-left: auto;
+      margin-right: auto;
+      margin-top: 20px;
+      margin-bottom: 20px; */
+      margin: 20px auto;
+      padding: 10px;
+      text-align: center;
+      line-height: 100px;
+      /* 아예 사라짐 */
+      /* display: none; */
+      visibility: hidden;
+    }
+    /* 아래위 동시에 마진이 생기면 상쇄가 일어나서 둘중에 큰걸로 잡힘 */
+    .box2{
+      border: 2px solid blue;
+      /* margin: 20px; */
+      width: 100px;
+      margin: 20px;
+      box-sizing: border-box;
+      padding: 10px;
+      /* overflow : div안에 넘어가는 영역을 처리한다. */
+      overflow-wrap: break-word;
+      
+    }
+  </style>
+</head>
+<body>
+   <div class="box1">
+    <span>
+      contents
+    </span> 
+  </div>
+   <div class="box2">contentsddddddddddddd</div>
+
+</body>
+</html>
+
+
+
+
+
+ <!-- div+p -->
+  <!-- div.box${content$}*5 -->
+  <!-- <div class="box1">content1</div>
+  <div class="box2">content2</div>
+  <div class="box3">content3</div>
+  <div class="box4">content4</div>
+  <div class="box5">content5</div>
+   -->

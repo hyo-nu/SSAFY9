@@ -1,0 +1,32 @@
+[
+{
+    "model": "articles.article",
+    "pk": 1,
+    "fields": {
+        "user": 2,
+        "title": "코코제목",
+        "content": "코코내용",
+        "image": "",
+        "created_at": "2023-04-12T00:08:07.694Z",
+        "updated_at": "2023-04-12T00:08:07.694Z",
+        "like_users": [
+            1
+        ]
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 2,
+    "fields": {
+        "user": 1,
+        "title": "현우 제목",
+        "content": "현우 내용",
+        "image": "",
+        "created_at": "2023-04-12T00:09:10.208Z",
+        "updated_at": "2023-04-12T00:09:10.208Z",
+        "like_users": [
+            1
+        ]
+    }
+}
+]

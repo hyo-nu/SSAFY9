@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    div{
+      height: 100px;
+      width: 100px;
+      background-color: #9775fa;
+      color: black;
+      line-height: 100px;
+      text-align: center;
+    }
+    .relative{
+      position: relative;
+      top: 100px;
+      left: 100px;
+    }
+    .parent{
+      position: relative;
+    }
+    .absolute-child{
+      position: absolute;
+      top: 50px;
+      left: 50px;
+    }
+    .fiexd{
+      position: fixed;
+      bottom: 50px;
+      right: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div>static</div>
+  <!-- <div class="relative">relative</div> -->
+  <div class="parent">
+    <div class="absolute-child">absoulte</div>
+  </div>
+  <div class="fiexd">fiexd</div>
+</body>
+</html>

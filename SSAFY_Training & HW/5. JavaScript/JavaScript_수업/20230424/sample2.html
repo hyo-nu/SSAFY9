@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .blue {
+        color: blue;
+      }
+      .bg-gray {
+        background-color: gray;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="btn">클릭</button>
+    <input type="text" name="" id="" />
+    <p></p>
+    <script>
+      const inputTag = document.querySelector("input");
+      const pTag = document.querySelector("p");
+      inputTag.addEventListener("input", changeInput);
+
+      function changeInput(event) {
+        console.log(event.target.value);
+        pTag.innerText = event.target.value;
+        pTag.inputMode = inputTag.value;
+        // 세개 전부다 동일
+      }
+
+      const btn = document.querySelector("#btn");
+      btn.addEventListener("click", function (event) {
+        pTag.classList.toggle("blue");
+      });
+
+      // document.body.addEventListener("click", function (event) {
+      //   event.target.classList.toggle("bg-gray");
+      // });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div id="app">
+    <h1>점심메뉴</h1>
+    <button v-on:click="randomMenu">Pick One</button>
+    <p v-if="pickOne">{{pickOne}}</p>
+    <hr>
+
+    <h1>로또</h1>
+    <button v-on:click="randomNumber">Get Lucky Numbers</button>
+    <p v-if='number'>{{number}}</p>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script>
+    const app = new Vue({
+      el:'#app',
+      data:{
+        pickOne :'',
+        menus : ['닭발','치킨','피자','해장국','볶음밥'],
+        number : '',
+      },
+      methods:{
+        randomMenu(){
+          this.pickOne = _.sample(this.menus)
+        },
+        randomNumber(){
+          this.number = _.sortBy(_.sampleSize((_.range(1,46)),6))
+        }
+      }
+    })
+  </script>
+</body>
+</html>

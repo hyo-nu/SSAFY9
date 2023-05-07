@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <button>버튼</button>
+    <p>0</p>
+    <!-- 해당 숫자를 버튼 합 번당 1씩 증가 하길 원함 -->
+  </body>
+  <script>
+    const btn = document.querySelector("button");
+    const pTag = document.querySelector("p");
+    let = counter = 0;
+    function clickBtn(event) {
+      console.log(event);
+      console.log(event.target);
+      // target : 이벤트가 발생한 지점
+      event.target.innerText = "변경";
+      // 버튼이 '변경'으로 바뀜
+      console.log("버튼 클릭");
+      // pTag.innerText += 1 : innerText가 문자열 타입이라서 문자열이 길어짐
+      pTag.innerText = ++counter;
+    }
+    btn.addEventListener("click", clickBtn);
+    // addEventListener(이벤트타입 , handler함수) : 이벤트 handler를 등록하는 명령어
+
+    function overBtn(event) {
+      console.log(event);
+      console.log("버튼 위로");
+    }
+    btn.addEventListener("mouseover", overBtn);
+    // mouseover : 버튼위에 마우스 올리면 나타나는 이벤트
+  </script>
+</html>

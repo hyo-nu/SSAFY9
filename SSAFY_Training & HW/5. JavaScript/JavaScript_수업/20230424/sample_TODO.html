@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .done {
+        text-decoration: line-through;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Todo List</h1>
+    <hr />
+    <form action="#">
+      <input type="text" />
+      <input type="submit" value="+" />
+    </form>
+    <ul></ul>
+    <script>
+      const form = document.querySelector("form");
+      form.addEventListener("submit", addTodo);
+
+      function addTodo(event) {
+        event.preventDefault();
+        const inputTag = document.querySelector("input");
+        const data = inputTag.value;
+
+        // console.log(inputText.trim());
+        // trim을 호출하면 앞뒤공백을 제거해줌
+
+        if (data.trim()) {
+          const liTag = document.createElement("li");
+          const ulTag = document.querySelector("ul");
+          liTag.innerText = data;
+          liTag.addEventListener("click", function (event) {
+            event.target.classList.toggle("done");
+          });
+
+          const btn = document.createElement("button");
+          btn.innerText = "DEL";
+          btn.addEventListener("click", function (event) {
+            ulTag.removeChild(liTag);
+          });
+
+          liTag.appendChild(btn);
+
+          ulTag.appendChild(liTag);
+          event.target.reset();
+        } else {
+          alert("할 일을 입력하세요.");
+        }
+      }
+    </script>
+  </body>
+</html>

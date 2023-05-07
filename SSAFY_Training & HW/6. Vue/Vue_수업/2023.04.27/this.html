@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    // const name = '홍길동'
+    // function hello() {
+    //   console.log('hello')
+    //   console.log(this.name)
+    //   console.log(this)
+    // }
+    // hello()
+      const obj = {
+        nums: [1,2], 
+        age : 10,
+        name : '홍길동',
+        // hello() {
+        //   console.log('hello')
+        //   console.log(this.name)
+        //   console.log(this)
+        // },
+        print(){
+          this.nums.forEach(function (num) {
+            console.log(num, this.age)
+          })
+        }
+        // 화살표 함수는 쓰지 않는다.
+        // arrowFunc : ()=>{
+        //   console.log('hello')
+        //   console.log(this.name)
+        //   console.log(this)
+        // }
+      } 
+      // obj.hello()
+      obj.print()
+      // obj.arrowFunc()
+  </script>
+</body>
+</html>

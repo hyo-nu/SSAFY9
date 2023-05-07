@@ -1,0 +1,12 @@
+body{
+  height: 2000px;
+}
+
+.movie-card{
+  height: 5rem;
+  background-color: olive;
+  color: white;
+  border-radius: 20px;
+  padding: 5px;
+  margin-top: 10px;
+}
