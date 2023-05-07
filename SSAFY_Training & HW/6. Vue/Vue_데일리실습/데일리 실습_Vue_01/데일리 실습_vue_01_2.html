@@ -9,22 +9,22 @@
   <body>
     <div id="app">
       {{ message }}
-      <button v-on:click="hello">메소드 호출</button>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
       <script>
       const app = new Vue({
         el: '#app',
+        data : {
+          message : "반가워요"
+        },
         methods: {
           hello: function () {
             console.log(`hello! ${this.message}`)
           }
-        },
-        data:{
-          message:'안녕하세요',
-        },
+        }
       })
       </script>
+      
   </body>
 </html>

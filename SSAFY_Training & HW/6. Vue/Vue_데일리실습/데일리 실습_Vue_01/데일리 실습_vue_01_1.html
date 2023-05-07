@@ -10,7 +10,7 @@
   <div id="app">
     <h1>Popular Movies</h1>
     <div>
-      <li v-for="movie in movieinfo.results" v-if = "movie.vote_average>=8">{{ movie.title }} </li>
+      <li v-for="movie in overAverage">{{movie.title}}</li>
     </div>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -419,6 +419,15 @@
     "total_results": 10000
   }
       },
+      computed : {
+        overAverage : function () {
+            return this.movieinfo.results.filter(
+                function(movie){
+                    return movie.vote_average >= 8
+                }
+            )
+        }
+      }
     })
   </script>
 </body>
