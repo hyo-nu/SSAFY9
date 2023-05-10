@@ -44,17 +44,17 @@ export default new Vuex.Store({
     ],
     sizeList: [
       {
-        name : 'tall',
+        name : 'Tall',
         price : 500,
         selected : false,
       },
       {
-        name : 'grande',
+        name : 'Grande',
         price : 1000,
         selected : false,
       },
       {
-        name : 'venti',
+        name : 'Venti',
         price : 1500,
         selected : false,
       }

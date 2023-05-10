@@ -1,7 +1,7 @@
 <template>
-  <div class="menu-list">
-    <h1>1. 음료를 고르세요.</h1>
-    <MenuListItem :menu="menuList"/>
+  <div class="menu-board">
+    <h1 id="beverage">음료를 고르세요</h1>
+    <MenuListItem :menu-props="menuList"/>
   </div>
 </template>
 
@@ -25,5 +25,18 @@ export default {
 </script>
 
 <style>
+.menu-board{
+  background-color: white;
+  margin: 9px;
+  border: 5px solid gainsboro;
+  border-radius: 20px;
+  width: 670px;
+  height: 380px;
+  padding: 10px;
+}
+#beverage{
+  text-align: center;
+  margin-top: 8px;
+}
 
 </style>
