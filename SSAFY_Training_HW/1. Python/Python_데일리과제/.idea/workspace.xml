@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c407c954-61c3-44f4-b0ad-ab2d69b0e8a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/is-docker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/is-docker.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/is-docker.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/resolve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/resolve.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/resolve.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/semver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/semver.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/semver.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/which" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/which.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.bin/which.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/dao/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/dao/socketServer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/entities/Defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/entities/EventParser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/licence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/local-node-ipc-certs/client.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/local-node-ipc-certs/openssl.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/local-node-ipc-certs/private/client.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/local-node-ipc-certs/private/dhparam.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/local-node-ipc-certs/private/oldclient.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/local-node-ipc-certs/private/oldserver.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/local-node-ipc-certs/private/server.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/local-node-ipc-certs/server.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/node-ipc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@achrinza/node-ipc/services/IPC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/code-frame/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/code-frame/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/code-frame/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/code-frame/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/code-frame/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/lib/identifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/lib/identifier.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/lib/keyword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/lib/keyword.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/helper-validator-identifier/scripts/generate-identifier-regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/ansi-styles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/ansi-styles/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/ansi-styles/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/ansi-styles/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/chalk/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/chalk/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/chalk/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/chalk/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/chalk/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/chalk/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/chalk/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-convert/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-convert/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-convert/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-convert/conversions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-convert/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-convert/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-convert/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-name/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-name/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-name/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-name/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-name/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-name/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/color-name/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/has-flag/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/has-flag/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/has-flag/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/has-flag/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/supports-color/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/supports-color/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/supports-color/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/supports-color/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/node_modules/supports-color/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@babel/highlight/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/applyToDefaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/assert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/bench.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/block.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/contain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/deepEqual.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/escapeHeaderAttribute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/escapeHtml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/escapeJson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/escapeRegex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/flatten.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/ignore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/intersect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/isPromise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/merge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/once.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/reach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/reachTemplate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/lib/wait.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/hoek/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/topo/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/topo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/topo/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/topo/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@hapi/topo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@node-ipc/js-queue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@node-ipc/js-queue/licence.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@node-ipc/js-queue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@node-ipc/js-queue/queue-vanilla.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@node-ipc/js-queue/queue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@node-ipc/js-queue/stack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/lib/decode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/lib/domain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/lib/email.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/lib/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/lib/ip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/lib/tlds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/lib/uri.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/address/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/formula/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/formula/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/formula/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/formula/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/formula/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/pinpoint/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/pinpoint/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/pinpoint/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/pinpoint/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@sideway/pinpoint/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@types/normalize-package-data/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@types/normalize-package-data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@types/normalize-package-data/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@types/normalize-package-data/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/generator/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/generator/injectUseRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/generator/template-vue3/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/generator/template-vue3/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/generator/template/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/generator/template/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/generator/template/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/generator/template/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-plugin-router/prompts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/_silence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/exit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/ipc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/launch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/logger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/openBrowser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/openChrome.applescript" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/pkg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/pluginOrder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/pluginResolution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/spinner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/lib/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/@vue/cli-shared-utils/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-regex/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-styles/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-styles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-styles/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-styles/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ansi-styles/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/base64-js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/base64-js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/base64-js/base64js.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/base64-js/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/base64-js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/base64-js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/bl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/test/convert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/test/indexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/test/isBufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/bl/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/buffer/AUTHORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/chalk/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/chalk/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/chalk/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/chalk/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/chalk/source/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/chalk/source/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/chalk/source/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-cursor/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-cursor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-cursor/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-cursor/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-cursor/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-spinners/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-spinners/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-spinners/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-spinners/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-spinners/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cli-spinners/spinners.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/clone/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/clone/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/clone/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/clone/clone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/clone/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/clone/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-convert/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-convert/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-convert/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-convert/conversions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-convert/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-convert/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-convert/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-name/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-name/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-name/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/color-name/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/lib/enoent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/lib/util/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/lib/util/readShebang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/lib/util/resolveCommand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/.bin/semver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/.bin/semver.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/.bin/semver.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/semver/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/semver/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/semver/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/semver/bin/semver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/semver/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/semver/range.bnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/node_modules/semver/semver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/cross-spawn/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/defaults/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/defaults/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/defaults/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/defaults/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/defaults/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/define-lazy-prop/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/define-lazy-prop/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/define-lazy-prop/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/define-lazy-prop/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/define-lazy-prop/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/easy-stack/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/easy-stack/es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/easy-stack/example/basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/easy-stack/licence.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/easy-stack/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/easy-stack/stack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/end-of-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/end-of-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/end-of-stream/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/end-of-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/error-ex/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/error-ex/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/error-ex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/error-ex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/escape-string-regexp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/escape-string-regexp/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/escape-string-regexp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/escape-string-regexp/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/es6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/event-pubsub-browser-es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/event-pubsub-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/event-pubsub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/event-pubsub/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/execa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/execa/lib/errname.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/execa/lib/stdio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/execa/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/execa/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/execa/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/.jscs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/implementation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/test/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/function-bind/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/get-stream/buffer-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/get-stream/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/get-stream/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/get-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/get-stream/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has-flag/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has-flag/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has-flag/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has-flag/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has-flag/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has/LICENSE-MIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/has/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/hosted-git-info/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/hosted-git-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/hosted-git-info/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/hosted-git-info/git-host-info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/hosted-git-info/git-host.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/hosted-git-info/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/hosted-git-info/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ieee754/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ieee754/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ieee754/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ieee754/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ieee754/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-arrayish/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-arrayish/.istanbul.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-arrayish/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-arrayish/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-arrayish/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-arrayish/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-arrayish/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-arrayish/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-core-module/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-core-module/.nycrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-core-module/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-core-module/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-core-module/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-core-module/core.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-core-module/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-core-module/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-core-module/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-docker/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-docker/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-docker/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-docker/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-docker/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-docker/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-interactive/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-interactive/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-interactive/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-interactive/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-interactive/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-stream/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-stream/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-stream/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-unicode-supported/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-unicode-supported/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-unicode-supported/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-unicode-supported/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-unicode-supported/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-wsl/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-wsl/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-wsl/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-wsl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/is-wsl/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/isexe/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/isexe/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/isexe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/isexe/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/isexe/mode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/isexe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/isexe/test/basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/isexe/windows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/dist/joi-browser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/annotate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/compile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/extend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/modify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/ref.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/schemas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/trace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/alternatives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/any.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/boolean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/number.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/types/symbol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/validator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/lib/values.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/joi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-message/Message.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-message/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-message/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-message/js-message-vanilla.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-message/licence.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-message/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-tokens/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-tokens/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-tokens/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-tokens/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/js-tokens/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/json-parse-even-better-errors/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/json-parse-even-better-errors/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/json-parse-even-better-errors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/json-parse-even-better-errors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/json-parse-even-better-errors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/launch-editor/editor-info/linux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/launch-editor/editor-info/osx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/launch-editor/editor-info/windows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/launch-editor/get-args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/launch-editor/guess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/launch-editor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/launch-editor/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/lines-and-columns/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/lines-and-columns/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/lines-and-columns/build/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/lines-and-columns/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/lines-and-columns/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/log-symbols/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/log-symbols/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/log-symbols/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/log-symbols/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/log-symbols/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/log-symbols/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/lru-cache/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/lru-cache/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/lru-cache/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/lru-cache/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/mimic-fn/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/mimic-fn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/mimic-fn/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/mimic-fn/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/mimic-fn/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/nice-try/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/nice-try/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/nice-try/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/nice-try/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/nice-try/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/node-fetch/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/node-fetch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/node-fetch/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/node-fetch/lib/index.es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/node-fetch/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/node-fetch/lib/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/node-fetch/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/lib/extract_description.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/lib/fixer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/lib/make_warning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/lib/normalize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/lib/safe_format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/lib/typos.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/lib/warning_messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/.bin/semver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/.bin/semver.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/.bin/semver.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/semver/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/semver/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/semver/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/semver/bin/semver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/semver/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/semver/range.bnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/node_modules/semver/semver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/normalize-package-data/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/npm-run-path/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/npm-run-path/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/npm-run-path/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/npm-run-path/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/once/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/once/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/once/once.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/once/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/onetime/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/onetime/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/onetime/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/onetime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/onetime/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/open/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/open/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/open/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/open/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/open/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/open/xdg-open" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ora/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ora/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ora/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ora/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/ora/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/p-finally/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/p-finally/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/p-finally/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/p-finally/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/parse-json/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/parse-json/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/parse-json/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/parse-json/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/path-key/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/path-key/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/path-key/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/path-key/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/path-parse/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/path-parse/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/path-parse/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/path-parse/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/picocolors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/picocolors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/picocolors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/picocolors/picocolors.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/picocolors/picocolors.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/picocolors/picocolors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/picocolors/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/pump/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/pump/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/pump/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/pump/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/pump/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/pump/test-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/pump/test-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/read-pkg/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/read-pkg/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/read-pkg/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/read-pkg/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/read-pkg/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/errors-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/experimentalWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/async_iterator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/buffer_list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/end-of-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/from-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/from.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/pipeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/bin/resolve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/example/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/example/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/lib/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/lib/caller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/lib/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/lib/core.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/lib/homedir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/lib/is-core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/lib/node-modules-paths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/lib/normalize-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/lib/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/readme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/dotdot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/dotdot/abc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/dotdot/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/faulty_basedir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/filter_sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/home_paths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/home_paths_sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/mock_sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/module_dir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/module_dir/xmodules/aaa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/module_dir/ymodules/aaa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/module_dir/zmodules/bbb/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/node-modules-paths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/node_path.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/node_path/x/aaa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/node_path/x/ccc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/node_path/y/bbb/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/node_path/y/ccc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/nonstring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/pathfilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/pathfilter/deep_ref/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/precedence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/precedence/aaa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/precedence/aaa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/precedence/aaa/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/precedence/bbb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/precedence/bbb/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/baz/doom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/baz/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/baz/quux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/browser_field/a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/browser_field/b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/browser_field/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/cup.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/dot_main/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/dot_main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/dot_slash_main/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/dot_slash_main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/false_main/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/false_main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/foo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/incorrect_main/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/incorrect_main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/invalid_main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/malformed_package_json/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/malformed_package_json/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/mug.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/mug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/multirepo/lerna.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/multirepo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/nested_symlinks/mylib/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/nested_symlinks/mylib/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/nested_symlinks/mylib/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/other_path/lib/other-lib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/other_path/root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/quux/foo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/same_names/foo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/same_names/foo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/symlinked/_/symlink_target/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/symlinked/package/bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/symlinked/package/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver/without_basedir/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/resolver_sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/shadowed_core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/shadowed_core/node_modules/util/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/subdirs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/resolve/test/symlinks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/restore-cursor/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/restore-cursor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/restore-cursor/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/restore-cursor/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/restore-cursor/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/bin/semver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/classes/comparator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/classes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/classes/range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/classes/semver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/cmp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/coerce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/compare-build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/compare-loose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/compare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/diff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/eq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/gt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/gte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/inc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/lte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/major.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/minor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/neq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/patch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/prerelease.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/rcompare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/rsort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/satisfies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/functions/valid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/internal/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/internal/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/internal/identifiers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/internal/parse-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/internal/re.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/preload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/range.bnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/gtr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/intersects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/ltr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/max-satisfying.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/min-satisfying.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/min-version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/outside.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/simplify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/subset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/to-comparators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/semver/ranges/valid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shebang-command/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shebang-command/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shebang-command/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shebang-command/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shebang-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shebang-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shebang-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shebang-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/.nycrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/example/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/example/op.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/example/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/example/quote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/quote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/security.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/test/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/test/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/test/env_fn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/test/op.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/test/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/test/quote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/shell-quote/test/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/signal-exit/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/signal-exit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/signal-exit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/signal-exit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/signal-exit/signals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-correct/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-correct/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-correct/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-correct/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-exceptions/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-exceptions/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-exceptions/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-expression-parse/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-expression-parse/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-expression-parse/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-expression-parse/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-expression-parse/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-expression-parse/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-expression-parse/scan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-license-ids/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-license-ids/deprecated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-license-ids/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/spdx-license-ids/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/strip-ansi/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/strip-eof/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/strip-eof/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/strip-eof/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/strip-eof/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-color/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-color/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-color/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-color/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-color/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/.nycrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/supports-preserve-symlinks-flag/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/tr46/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/tr46/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/tr46/lib/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/tr46/lib/mappingTable.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/tr46/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/basic.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/except.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/literal-union.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/merge-exclusive.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/merge.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/mutable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/package-json.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/promisable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/readonly-deep.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/type-fest/source/require-at-least-one.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/util-deprecate/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/util-deprecate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/util-deprecate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/util-deprecate/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/util-deprecate/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/util-deprecate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/validate-npm-package-license/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/validate-npm-package-license/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/validate-npm-package-license/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/validate-npm-package-license/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wcwidth/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wcwidth/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wcwidth/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wcwidth/combining.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wcwidth/docs/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wcwidth/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wcwidth/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wcwidth/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/webidl-conversions/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/webidl-conversions/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/webidl-conversions/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/webidl-conversions/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/whatwg-url/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/whatwg-url/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/whatwg-url/lib/URL-impl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/whatwg-url/lib/URL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/whatwg-url/lib/public-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/whatwg-url/lib/url-state-machine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/whatwg-url/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/whatwg-url/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/which/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/which/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/which/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/which/bin/which" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/which/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/which/which.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wrappy/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wrappy/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wrappy/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/wrappy/wrappy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/yallist/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/yallist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/yallist/iterator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/yallist/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/node_modules/yallist/yallist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_01_hw02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_01_hw04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_02_hw02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_02_hw04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/src/views/FirstView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/src/views/SecondView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_03_hw04/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_06_hw02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_06_hw04/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_06_hw04/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_07_hw02/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_07_hw02/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_07_hw04/CreateTodo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/데일리 과제_vue_08_hw04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_03_hw01_P/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/src/mylib/math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리과제/홈워크_vue_05_hw01_P/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_01/데일리 실습_vue_01_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_01/데일리 실습_vue_01_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_01/데일리 실습_vue_01_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_01/데일리 실습_vue_01_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_01/데일리 실습_vue_01_5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_02/데일리 실습_vue_02_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_02/데일리 실습_vue_02_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_02/데일리 실습_vue_02_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_02/데일리 실습_vue_02_3_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_02/데일리 실습_vue_02_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_1/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/src/views/LottoView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/src/views/LunchView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_2/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/assets/happeed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/assets/happling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/assets/happlossome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/assets/happlower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/assets/noResult.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/assets/ssafy-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/views/NocolorView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/views/NotfoundView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/views/SsafleafView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/views/SsaflingView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/src/views/SsaflowerView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_3/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/src/components/Finaltax.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/src/components/Income.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/src/components/Taxrate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_4/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/src/components/AppChild.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/src/components/AppParent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_03/데일리 실습_vue_03_5/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_1_P/데일리 실습_vue_04_1_P.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_04/데일리 실습_vue_04_4_P/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/components/MenuList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/components/MenuListItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/components/OptionList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/components/OptionListItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/components/OrderList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/components/OrderListItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/components/SizeList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/components/SizeListItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/coffee_order/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_데일리실습/데일리 실습_Vue_05/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.04.27/01_vue_intro_page25.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.04.27/02_html_only_page26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.04.27/03_html_vue_page31.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.04.27/04_vue_start_page48.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.04.27/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.04.27/this.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.04.27/데일리+실습_vue_01_4_P.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.01/06_basic_of_syntax_page5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.01/07_basic_of_syntax_2_page18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.01/08_basic_of_syntax_3_page22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.01/09_basic_of_syntax_4_page26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.01/10_computed_page29.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.01/11_watch_page31.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.01/11_watch_yesorno.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.01/12_filters_page33.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.01/99_if_for_page35.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/src/components/MyChild.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/src/components/MyComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.02/vue-cli/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/src/components/ChildComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/src/components/DogComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/lifecycle_hooks_page51/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/src/components/MyChild.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/src/components/MyComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.03/vue-cli/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/src/components/TodoForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/src/components/TodoList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/src/components/TodoListItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/todo/todo-vuex-app/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.04/vuex-app/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/src/store/modules/myModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_ppt_skeleton/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/src/components/TodoForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/src/components/TodoList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/src/components/TodoListItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/06_todo_skeleton/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.08/todos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.09/vue-router-app/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/components/ArticleItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/views/CreateView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/views/DetailView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/views/IndexView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/src/views/NotFound404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_article_vue_complete/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/src/views/HelloView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_complete/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/views/DogView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/views/HelloView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/views/LoginView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/src/views/NotFound404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/08_navigation_guard_skeleton/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/src/views/HelloView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6. Vue/Vue_수업/2023.05.10/vue-router-app/vue.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2PhHAp4Rke8NTkELhRgAuUoydoG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c407c954-61c3-44f4-b0ad-ab2d69b0e8a3" name="Default Changelist" comment="" />
+      <created>1683902255187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683902255187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

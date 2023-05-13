@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Genre : {{genre.name}}</h1>
+<hr>
+{% for movie in movies %}
+<h5><b>{{movie.title}}</b></h5>
+<p><img src="{{movie.poster_path}}" style = "height : 150px"></p>
+<p>평점 : {{movie.vote_average}}</p>
+<p>개봉일 : {{movie.release_date}}</p>
+<p>개요 : {{movie.overview}}</p>
+
+<hr>
+{% endfor %}
+
+{% endblock content %}1

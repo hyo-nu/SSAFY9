@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Recommend</h1>
+  <hr>
+  <h3>장르를 선택해 주세요!</h3>
+
+  {% for genre in genres %}
+  <ul>
+    <li> <a href="{% url 'movies:recommended' genre.pk %}"><button class=" btn btn-primary"><h4>{{genre.name}}</h4></button></a></li>
+  </ul>
+  
+  {% endfor %}
+
+{% endblock %}
